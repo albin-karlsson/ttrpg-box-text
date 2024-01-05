@@ -4,7 +4,7 @@
 
 ## Summary
 
-Introducing **TTRPG Boxer**, an innovative AI-driven text generator tailored for tabletop role-playing games. This tool is designed to assist Game Masters by processing voice inputs and building upon it to create rich, descriptive text narratives to captivate players.
+Introducing **TTRPG Boxer**, an innovative AI-driven text generator tailored for tabletop role-playing games. This tool is designed to assist Game Masters by processing voice input and building upon it to create rich, descriptive text narratives to captivate players.
 
 ## Background
 
